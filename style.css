@@ -1,6 +1,5 @@
 body{
 	margin: 0;
-	font-family: 'Ysabeau Infant', sans-serif;
 }
 
 header{
@@ -15,15 +14,15 @@ main{
 
 hr{
 	height: 3px;
-	color: #8d4b55;
-	background-color: #8d4b55;
+	color: #FF0080;
+	background-color: #FF0080;
 }
 
 .name{
 	margin: 0;
 	height: 100%;
 	text-align: center;
-	background-color: #8d4b55;
+	background-color: #FF0080;
 	color: white;	
 }
 
@@ -42,7 +41,7 @@ h1{
 }
 
 h2{
-	color:#8d4b55;
+	color:#FF0080;
 }
 
 img{
@@ -52,8 +51,8 @@ img{
 .image{
 	position: absolute;
 	margin-left: 8%;
-	margin-top: 2%;
-	width: 17%;
+	margin-top: 0;
+	width: 15%;
 	border-radius: 50%;
 }
 
@@ -87,11 +86,6 @@ code{
 	text-align: left;
 }
 
-pre{
-	background-color: #FF0080;
-}
-
-
 .left-block{
 	float: left;
 	width: 50%;
@@ -107,13 +101,13 @@ a{
 }
 
 a:hover{
-	color: #8d4b55;
+	color: #FF0080;
 }
 
 footer{
 	margin: 0;
 	text-align: center;
-	background-color: #8d4b55;
+	background-color: #FF0080;
 	color: white;
 }
 
